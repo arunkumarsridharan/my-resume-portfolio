@@ -1,0 +1,142 @@
+{
+  "main": {
+    "name": "Arun Sridharan",
+    "occupation": "Software Engineer, Tech Lead @ Walmart Global Tech",
+    "description": "Full Stack JavaScript Developer/Tech Lead, experienced in modern front end libraries React & Angular, NodeJs and Rest APIs",
+    "image": "arunSridharan.png",
+    "bio": "My name is Arun, I'm a Full Stack JavaScript Developer/Tech Lead. Currently I'm working at Walmart Global Tech!",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "arunsridharan.86@gmail.com",
+    "phone": "+1 440-382-6848",
+    "address": {
+      "city": "Bentonville",
+      "state": "Arkansas",
+      "zip": "USA - 72712"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/unleashedarun",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/arun-kumar-sridharan-554521114/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am a fullstack Javascript and Java developer/Tech Lead",
+    "education": [
+      {
+        "school": "Anna University, Chennai, India",
+        "degree": "Masters of Computer Applications (MCA)",
+        "graduated": "July 2010",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Madurai Kamaraj University, India",
+        "degree": "Bachelors in Mathematics (BSc.)",
+        "graduated": "Jun 2007",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Walmart Global Tech",
+        "title": "Software Engineer 3-Tech",
+        "years": "Nov 2016 - Present",
+        "description": "Tech Team lead for SCSE – Analytics team"
+      },
+      {
+        "company": "DXC Technology (formerly, CSC - Computer Sciences Corporation)",
+        "title": "Sr. Program Analyst",
+        "years": "July 2010 - Nov 2016",
+        "description": "Lead Rapid Application Development Team (RAD) and Application delivery responsible"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "95%"
+      },
+      {
+        "name": "Angular",
+        "level": "90%"
+      },
+      {
+        "name": "HTML 5, CSS, BootStrap, JSON & Jquery",
+        "level": "86%"
+      },
+      {
+        "name": "NodeJS, Express, Web Services, Node NLP",
+        "level": "85%"
+      }, 
+      {
+        "name": "MariaDB, SQL Server 2016, DB2",
+        "level": "80%"
+      },
+      {
+        "name": "Java/J2EE, SpringMVC, SpringBoot",
+        "level": "65%"
+      },
+      {
+        "name": "Cassandra & MongoDB",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You have been a strong technical leader in the team finding ways to identify the problems or issues of our products/services, and implemented solutions for it.",
+        "user": "Senior Manager I, Walmart Global Tech – Supply Chain"
+      },
+      {
+        "text": "I wanted to send a note to appreciate Arun for all of the time and hard work he puts in providing exceptional customer service and support to the DSSM team. Arun consistently delivers enhancement/change requests on or before the deadline allowing our team to quickly adjust to business needs.",
+        "user": "Senior Systems Support Manager, Walmart Global Tech – Supply Chain"
+      }
+    ]
+  }
+}
