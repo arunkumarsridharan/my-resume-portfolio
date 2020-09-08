@@ -25,6 +25,10 @@
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/arun-kumar-sridharan-554521114/",
         "className": "fa fa-linkedin"
+      },{
+        "name": "github",
+        "url": "https://github.com/arunkumarsridharan",
+        "className": "fa fa-github"
       }
     ]
   },
