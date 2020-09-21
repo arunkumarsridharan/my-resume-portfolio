@@ -11,7 +11,7 @@ const Contact = ({ data }) => {
 
     const handleClick = (e) => {
        e.preventDefault();
-      window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+      window.open(`mailto:${data.email}?subject=${subject}&body=${name}<${email}>: ${message}`);
     }
     
 
