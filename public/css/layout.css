@@ -194,11 +194,11 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #c0c0c0;
+   background: #fafbfcec;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
-}
+}  
 
 #about a, #about a:visited  { color: #fff; }
 #about a:hover, #about a:focus { color: #11ABB0; }
@@ -210,7 +210,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about p {
    line-height: 30px;
-   color: #383434;
+
 }
 #about .profile-pic {
    position: relative;
